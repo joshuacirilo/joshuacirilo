@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hello, I am Joshua Cirilo
+Introduction
+I’m Joshua Cirilo — a passionate Systems Engineer and software developer who creates clean, user-focused digital solutions. Skilled in programming and web design, I’m pursuing a Bachelor’s in Software Development at BYU–Idaho and completing my third year of Systems Engineering at Mariano Gálvez University.🚀🚀
 
-<!--
-**joshuacirilo/joshuacirilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+🔭Languages: Java, C#, Python, JavaScript
 
-Here are some ideas to get you started:
+👾Web Development: HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+👽Email**: jcirilo.alegria@gmail.com
+
+🔦LinkedIn**: https://www.linkedin.com/in/joshua-cirilo-8640322ab/
+
