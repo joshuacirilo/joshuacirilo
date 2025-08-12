@@ -1,5 +1,6 @@
 👋 Hello, I am Joshua Cirilo
-Introduction
+
+
 I’m Joshua Cirilo — a passionate Systems Engineer and software developer who creates clean, user-focused digital solutions. Skilled in programming and web design, I’m pursuing a Bachelor’s in Software Development at BYU–Idaho and completing my third year of Systems Engineering at Mariano Gálvez University.🚀🚀
 
 Skills
